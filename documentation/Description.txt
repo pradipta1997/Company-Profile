@@ -1,0 +1,37 @@
+Pradipta Web-Dev (Company Profile) | Responsive support
+
+Program Language : HTML5, MaterializeCSS, VanillaJS, jQuery
+Code Editor	 : Visual Studio 2020
+Font Face	 : Audiowide & Cursive
+Basic Color	 : #0097a7(cyan) & #009688(teal)
+Image Source	 : unsplash.com, gojek.com, tokopedia.com, traveloka.com
+Music By	 : 
+Section  	 : Front-End & Back-End
+
+
+
+
+1.Materialize Overview & Download for function
+
+2.HTML structure
+
+3.Navbar, Dropdown menu, Brand (on Desktop View)
+
+4.Sidebar, Hamburger Menu, Brand (Mobile View)
+
+5.Slider
+
+6.About with Progress Bar
+
+7.Client with Parallax Effect
+
+8.Service with Card-panel and Web Icons
+
+9.Code with Card-panel and logo
+
+10.Portfolio with responsive-img and javascript materialBoxed
+
+11.Contact Us with Card-panel & Form with text-input
+
+12.Footer
+

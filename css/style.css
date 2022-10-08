@@ -1,0 +1,121 @@
+
+/*BRAND-LOGO*/
+.navbar-fixed .brand-logo,
+.page-footer .brand h5 {
+
+    font-size: 25px;
+    font-family: 'Audiowide', cursive;
+}
+
+/*-----------------------------------------*/
+
+/*SLIDER*/
+.slider h3,
+.slider h5 {
+
+    text-shadow: 2px 2px 2px #00acc1;
+}
+
+/*-----------------------------------------*/
+
+/*ABOUT US*/
+.about p {
+
+    font-size: 18px;
+    text-align: justify;
+}
+
+/*-----------------------------------------*/
+
+/*OUR CLIENTS*/
+.parallax-container {
+
+    height: 310px;
+}
+
+.parallax img {
+
+    background-size: cover;
+    width: 1920px;
+    height: 1280px;
+
+    opacity: 0.7 !important;
+}
+
+.clients img {
+
+    max-width: 210px;
+    margin-top: 5px;
+    filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.8));
+}
+
+/*-----------------------------------------*/
+
+/*OUR SERVICES*/
+.card-panel p {
+
+    text-align: justify;
+}
+
+.services .card-panel:hover {
+
+    box-shadow: 2px 2px 2px #009688;
+}
+
+/*-----------------------------------------*/
+
+/*CODE*/
+.code .card-panel img {
+
+    width: 80px;
+}
+
+.code .jquery {
+
+    padding-bottom: 24px;
+    box-sizing: border-box;
+}
+
+.code .jquery img {
+
+    margin-top: 16px;
+}
+
+.code .php {
+
+    padding-bottom: 24px;
+    box-sizing: border-box;
+}
+
+.code .php img {
+
+    margin-top: 50px;
+}
+
+.code .card-panel:hover {
+
+    box-shadow: 2px 2px 2px #009688;
+}
+
+/*-----------------------------------------*/
+
+/*CONTACT US*/
+.contact .m5 .material-icons {
+
+    font-size: 40px;
+}
+
+.contact .m7 .material-icons {
+
+    font-size: 25px;
+}
+
+/*-----------------------------------------*/
+
+/*FOOTER*/
+.footer-copyright {
+
+    font-size: 18px;
+}
+
+
